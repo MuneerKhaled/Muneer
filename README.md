@@ -65,8 +65,8 @@ class MuneerKhaled:
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MuneerKhaled&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneerKhaled&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MuneerKhaled&show_icons=true&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneerKhaled&layout=compact&theme=tokyonight"/>
 
 </div>
 

@@ -61,17 +61,6 @@ class MuneerKhaled:
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=00D4FF&center=true&vCenter=true&width=450&lines=CS+Student;Learning+Python+%26+JavaScript;Building+Simple+Projects;Improving+Every+Day)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuneerKhaled&theme=tokyonight" alt="GitHub Streak"/>
-</div>
 
 ---
 

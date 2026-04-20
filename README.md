@@ -65,8 +65,7 @@ class MuneerKhaled:
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MuneerKhaled&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuneerKhaled&layout=compact&theme=tokyonight"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Learning+Web+Development;Python+%26+JavaScript;Building+Small+Projects;Always+Learning)](https://git.io/typing-svg)
 
 </div>
 

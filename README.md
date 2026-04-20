@@ -19,10 +19,9 @@ class MuneerKhaled:
     role        = "Backend Developer"
     focus       = ["Scalable APIs", "Database Design", "Clean Architecture"]
     learning    = ["Cloud Services", "DevOps", "System Design"]
-    available   = True  # Open to opportunities!
 
     def say_hello(self):
-        print("Thanks for visiting my profile! Let's build something great together 🚀")
+        print("Thanks for visiting my profile! Let's build something great together ")
 ```
 
 ---
@@ -38,7 +37,6 @@ class MuneerKhaled:
 ###  Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -49,7 +47,7 @@ class MuneerKhaled:
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ###  Tools & DevOps

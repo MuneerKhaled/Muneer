@@ -93,12 +93,4 @@ class MuneerKhaled:
 
 </div>
 
----
 
-<div align="center">
-
-### 💬 "First, solve the problem. Then, write the code."
-
-⭐️ From Muneer Khaled — Let's build something great 🚀
-
-</div>

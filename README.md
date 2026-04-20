@@ -3,7 +3,7 @@
 
 # Muneer Khaled
 
-### ⚡ Backend Developer · Web Craftsman · Problem Solver
+###  Backend Developer · Web Craftsman · Problem Solver
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Python+%26+JavaScript+Enthusiast;Database+Architect;Always+Learning+New+Things)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 ```python
 class MuneerKhaled:
@@ -27,7 +27,7 @@ class MuneerKhaled:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -62,7 +62,7 @@ class MuneerKhaled:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -77,7 +77,7 @@ class MuneerKhaled:
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 ```
 ┌─────────────────────────────────────────────────────────┐

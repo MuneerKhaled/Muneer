@@ -3,7 +3,7 @@
 
 # Muneer Khaled
 
-###  Backend Developer · Web Craftsman · Problem Solver
+###  Backend Developer 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Python+%26+JavaScript+Enthusiast;Database+Architect;Always+Learning+New+Things)](https://git.io/typing-svg)
 
@@ -52,7 +52,7 @@ class MuneerKhaled:
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### ⚙️ Tools & DevOps
+###  Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -94,21 +94,21 @@ class MuneerKhaled:
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
-- ☁️ Cloud Platforms (AWS / GCP)
-- 🔐 Advanced Security & Authentication (JWT, OAuth2)
-- 📦 Microservices Architecture
-- 🧪 Test-Driven Development (TDD)
+-  Cloud Platforms (AWS / GCP)
+-  Advanced Security & Authentication (JWT, OAuth2)
+-  Microservices Architecture
+-  Test-Driven Development (TDD)
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muneerkhaled)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muneerkhaled@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muneerkhaled5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuneerKhaled)
 
 </div>

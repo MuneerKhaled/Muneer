@@ -5,7 +5,7 @@
 
 ###  Backend Developer 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%9A%80;Python+%26+JavaScript+Enthusiast;Database+Architect;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Aspiring+Web+Developer;Learning+Python+%26+JavaScript;Building+Small+Projects;Improving+Every+Day)](https://git.io/typing-svg)
 
 </div>
 

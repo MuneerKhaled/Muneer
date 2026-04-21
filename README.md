@@ -2,7 +2,7 @@
 
 # Hey, I'm Muneer Khaled 
 
-### Backend Developer | Building APIs & Web Applications
+### Backend Developer 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=22\&pause=1000\&color=00D4FF\&center=true\&vCenter=true\&width=500\&lines=Aspiring+Backend+Developer;Learning+Python+%26+JavaScript;Building+Real+Projects;Improving+Every+Day)](https://git.io/typing-svg)
 
